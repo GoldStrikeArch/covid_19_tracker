@@ -1,0 +1,15 @@
+export const totalDataLabelMap = {
+  date: "Date",
+  totalCases: "Total Cases",
+  caseIncrease: "Cases Increase",
+  totalTests: "Total Tests",
+  testsIncrease: "Tests Increase",
+  death: "Total Deaths",
+  deathIncrease: "Deaths Increase",
+  recovered: "Total Recovered",
+  currentlyHospitalized: "Currently Hospitalized",
+  totalHospitalized: "Total Hospitalized",
+  hospitalizedIncrease: "Hospitalized Increase",
+  onVentilatorCurrently: "Currently On Ventilator",
+  dateChecked: "Date",
+};

@@ -5,7 +5,12 @@ module.exports = {
   },
   purge: ["./src/**/*.svelte", "./src/**/*.html"],
   theme: {
-    extend: {},
+    extend: {
+      container: {
+        center: true,
+        padding: '2rem'
+      }
+    },
   },
   variants: {},
   plugins: [],
